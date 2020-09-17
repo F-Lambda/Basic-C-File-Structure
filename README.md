@@ -1,2 +1,2 @@
-# Test Repl.it
-Basic outline for a Repl.it project.
+# Test C++
+Basic outline for a C++ project.
